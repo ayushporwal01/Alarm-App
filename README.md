@@ -14,7 +14,7 @@ A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This pro
 
 ## 📸 Preview
 
-![Alarm App Screenshot](https://github.com/user-attachments/assets/b5bf52b9-4daf-4aea-801f-5e4b33e39852)
+![Alarm App Screenshot](https://i.ibb.co/HS4Y3w6/chrome-Bla-Go-SB145.png)
 
 
 ## 🛠️ Tech Stack
