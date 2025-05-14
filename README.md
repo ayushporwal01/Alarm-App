@@ -33,4 +33,4 @@ A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/alarm-app.git
+   git clone https://github.com/ayushporwal01/Alarm-App.git
