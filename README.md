@@ -54,7 +54,7 @@ alarm-app/
 ├── alarm.mp3        # Audio file for alarm alert
 ```
 
-## 🙌 Contributing
-Pull requests are welcome!
+## 🙌 Contributing and Feedback
+Pull requests and feedback are always welcome!
 If you’d like to improve the app or suggest new features, feel free to fork the repo and create a pull request.
 
