@@ -35,3 +35,26 @@ A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This pro
 1. Clone the repository:
    ```bash
    git clone https://github.com/ayushporwal01/Alarm-App.git
+
+2. Navigate to the project directory:
+
+```bash
+cd alarm-app
+```
+
+3. Open index.html in your browser
+
+##📁 Project Structure
+
+```bash
+alarm-app/
+├── index.html       # Main HTML file
+├── style.css        # App styling
+├── script.js        # JavaScript logic
+├── alarm.mp3        # Audio file for alarm alert
+```
+
+##🙌 Contributing
+Pull requests are welcome!
+If you’d like to improve the app or suggest new features, feel free to fork the repo and create a pull request.
+
