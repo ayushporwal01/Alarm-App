@@ -44,7 +44,7 @@ cd alarm-app
 
 3. Open index.html in your browser
 
-##📁 Project Structure
+## 📁 Project Structure
 
 ```bash
 alarm-app/
@@ -54,7 +54,7 @@ alarm-app/
 ├── alarm.mp3        # Audio file for alarm alert
 ```
 
-##🙌 Contributing
+## 🙌 Contributing
 Pull requests are welcome!
 If you’d like to improve the app or suggest new features, feel free to fork the repo and create a pull request.
 
