@@ -39,7 +39,7 @@ A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This pro
 2. Navigate to the project directory:
 
 ```bash
-cd alarm-app
+cd Alarm-App
 ```
 
 3. Open index.html in your browser
@@ -47,7 +47,7 @@ cd alarm-app
 ## 📁 Project Structure
 
 ```bash
-alarm-app/
+Alarm-App/
 ├── index.html       # Main HTML file
 ├── style.css        # App styling
 ├── script.js        # JavaScript logic
