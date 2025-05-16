@@ -1,4 +1,4 @@
-# ⏰ Alarm App
+# ⏰ Alarm Clock
 
 A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This project helps you set multiple alarms, toggle them on/off, delete individual alarms, and clear all with ease — complete with a real-time clock and audio alert.
 
@@ -14,7 +14,7 @@ A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This pro
 
 ## 📸 Preview
 
-![Alarm App Screenshot](https://i.ibb.co/HS4Y3w6/chrome-Bla-Go-SB145.png)
+![Alarm Clock Screenshot](https://i.ibb.co/HS4Y3w6/chrome-Bla-Go-SB145.png)
 
 
 ## 🛠️ Tech Stack
@@ -34,12 +34,12 @@ A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayushporwal01/Alarm-App.git
+   git clone https://github.com/ayushporwal01/Alarm-Clock.git
 
 2. Navigate to the project directory:
 
 ```bash
-cd Alarm-App
+cd Alarm-Clock
 ```
 
 3. Open index.html in your browser
@@ -47,7 +47,7 @@ cd Alarm-App
 ## 📁 Project Structure
 
 ```bash
-Alarm-App/
+Alarm-Clock/
 ├── index.html       # Main HTML file
 ├── style.css        # App styling
 ├── script.js        # JavaScript logic
