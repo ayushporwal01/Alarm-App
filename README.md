@@ -1,6 +1,6 @@
 # ⏰ Alarm App
 
-A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This project helps you set multiple alarms, toggle them on/off, delete individual alarms, and clear all with ease — complete with a real-time clock and audio alert.,
+A simple and clean alarm app built using **HTML, CSS, and JavaScript**. This project helps you set multiple alarms, toggle them on/off, delete individual alarms, and clear all with ease — complete with a real-time clock and audio alert.
 
 ## 🚀 Features
 
